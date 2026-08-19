@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZDK 剪辑"
+  short_description: "口播转写、精剪、Remotion 视觉设计与母版质检流程"
+  default_prompt: "使用 $zdkjianji 将这条口播视频完成转写、口误清理、视觉设计、预览审查和高清交付。"
